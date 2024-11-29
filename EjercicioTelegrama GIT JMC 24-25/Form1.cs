@@ -38,7 +38,7 @@ namespace EjercicioTelegrama_GIT_JMC_24_25
             {
                 if (numPalabras <= 10)
                 {
-                    coste = 2.5;
+                    coste = 3; //JMC24-25 CAMBIO EN EL COSTE DE 2.5 A 3
                 }
                 else
                 {
@@ -52,7 +52,7 @@ namespace EjercicioTelegrama_GIT_JMC_24_25
                 {
                     if (numPalabras <= 10)
                     {
-                        coste = 5;
+                        coste = 6; // JMC 24-25 CAMBIO EN EL COSTE DE 5 A 6
                     }
                     else
                     {
