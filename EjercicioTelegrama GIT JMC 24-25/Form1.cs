@@ -26,7 +26,7 @@ namespace EjercicioTelegrama_GIT_JMC_24_25
             //Leo el telegrama
             textoTelegrama = txtTelegrama.Text;
             // telegrama urgente?
-            if (chkUrgente.Checked)
+            if (rbUrgente.Checked) //Añadimos el radiobutton
             {
                 tipoTelegrama = 'u';
             }
